@@ -15,3 +15,5 @@ class Lab3TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# Question: No, that would not have meant the code was correct
